@@ -226,3 +226,22 @@ body {
 #menu ul li:first-child a:hover:after{
     border-bottom-color: #04acec; 
 }
+
+.tabla_comparacion {
+    background-color: hsl(220, 53%, 79%);
+    border: solid 1px #000000;
+    width: "100%"
+}
+th {
+    vertical-align: top;
+    background-color: #a6ccce;
+    padding: 1.5rem;
+    border: 0.063rem solid #F2F2F2;
+}
+
+td {
+    background-color: #c2d8db;
+    vertical-align: top;
+    padding: 1.5rem;
+    border: 0.063rem solid #F2F2F2;
+}
